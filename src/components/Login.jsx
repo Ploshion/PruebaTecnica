@@ -62,7 +62,7 @@ const Login = () => {
                           <form role="form">
                             <div className="mb-3">
                               <input
-                                type="text"
+                                type="sa@prueba.com"
                                 onChange={InputCorreo}
                                 className="form-control form-control-lg"
                                 placeholder="Correo"
@@ -71,7 +71,7 @@ const Login = () => {
                             </div>
                             <div className="mb-3">
                               <input
-                                type="password"
+                                type="Dev123.."
                                 onChange={InputContraseña}
                                 className="form-control form-control-lg"
                                 placeholder="Contraseña"
